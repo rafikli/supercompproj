@@ -3,7 +3,7 @@
 Base para criar os projetos de supercomputação 2022.2
 
 
-# Heurística
+## Heurística
 
 Sua implementação da heurística "Cidade mais próxima" deverá reproduzir os resultados mostrados nos arquivos de entrada/saída desta pasta. Para rodar o verificador de soluções execute
 
