@@ -3,3 +3,4 @@ heuristico/heuristico
 busca-local/busca-local
 feedback-*
 .DS_Store
+.vscode
