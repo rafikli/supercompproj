@@ -1,4 +1,5 @@
-professor*.cpp
+professor_*.*
 heuristico/heuristico
+busca-local/busca-local
 feedback-*
 .DS_Store
